@@ -1,13 +1,13 @@
 <p align="center">
   <img src="https://github.com/cleiton-fx/cleiton-fx/raw/main/assets/gif.gif" alt="Oi, eu sou  Cleiton">
 </p>
-<h2 align="center">Sou um estudante de Ciência de dados, atualmente não trabalho na área mas venho me dedicando dia após dia para encontrar meu lugar. Aqui você encontrará alguns de meus projetos. Fique a vontade para explorá-los.</h2>
+<h1> align="center">Sou um estudante de Ciência de dados, atualmente não trabalho na área mas venho me dedicando dia após dia para encontrar meu lugar. Aqui você encontrará alguns de meus projetos. Fique a vontade para explorá-los.</h1>
 
 <br>
 
 - 📫 Como me encontrar ? **cleiton2903@gmail.com**
 
-- 📄 Saiba ais sobre mim https://www.linkedin.com/in/cleiton-silva-83556a201
+- 📄 Saiba mais sobre mim https://www.linkedin.com/in/cleiton-silva-83556a201
 
 - ⚡ Curiosidade sobre mim **Trader autônomo no mercado internacional**
 
