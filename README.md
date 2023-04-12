@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/cleiton-fx/cleiton-fx/raw/main/assets/gif.gif" alt="Oi, eu sou  Cleiton">
 </p>
-<h3 align="center">Sou um estudante de Ciência de dados, atualmente trabalho com Business Intelligence trazendo soluções para empresas . Aqui você encontrará alguns de meus projetos. Fique a vontade para explorá-los.</h3>
+<h3 align="center">Sou um estudante de Ciência de dados, atualmente trabalho com Business Intelligence trazendo soluções para empresas de diversos ramos . Aqui você encontrará alguns de meus projetos. Fique a vontade para explorá-los.</h3>
 
 <br>
 
